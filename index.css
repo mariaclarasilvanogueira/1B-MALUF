@@ -1,26 +1,26 @@
 
 
 h1 {
-    color: #0931d2;
+    color: #000000;
     text-align: center;
 }
 h2 {
-    color: rgb(65, 50, 234);
+    color: rgb(255, 227, 240);
 }
 p {
-    color: blue;
+    color: rgb(176, 176, 214);
 
 }
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
-    border: 5px dotted salmon;
+    border: 5px dotted rgb(77, 39, 35);
     float: left;
     position: absolute;
 }
 
 .itens {
-    color:  #5F9EA0;
+    color:  #16f6fd;
     text-decoration: underline;
 }
 .texto-principal {
